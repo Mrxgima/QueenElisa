@@ -19,14 +19,14 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://pavangimhana10:<db_2VTFxq2v4jVSii4w>@cluconst.dvbxp.mongodb.net/', 
+  MONGODB_URL: 'mongodb+srv://pavangimhana10:db_2VTFxq2v4jVSii4w@cluconst.dvbxp.mongodb.net/', 
 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94729063871',
+  OWNER_NUMBER: '94763809289',
   SUDO: '94729063871',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
